@@ -13,6 +13,33 @@ Build predictive models to forecast healthcare-related metrics.
 Support hospital administrators in improving operational efficiency.
 
 ## About Dataset
+The project utilizes multiple healthcare datasets:
+
+1. Patients Dataset
+
+Contains patient-related information such as:
+
+Patient demographics
+Admission details
+Medical records
+Treatment information
+2. Services Dataset
+
+Contains hospital service information including:
+
+Bed availability
+Service utilization
+Department operations
+Resource allocation
+3. Staff Dataset
+
+Contains workforce-related information such as:
+
+Staff roles
+Department assignments
+Operational support metrics
+
+The datasets are merged to create a consolidated healthcare management database for comprehensive analysis.
 
 ## project pipeline
 1. Data Collection & Loading
