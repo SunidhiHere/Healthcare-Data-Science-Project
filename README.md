@@ -89,6 +89,11 @@ Cross-validation for model robustness.
 Interpretation of results for healthcare decision-making.
 
 ## EDA
+The Exploratory Data Analysis (EDA) phase was conducted to gain a comprehensive understanding of hospital operations, patient records, staff allocation, and healthcare service utilization. Initially, the datasets were examined for missing values, duplicate entries, data types, and overall data quality to ensure reliability for further analysis. Descriptive statistics were generated to summarize key numerical features and identify unusual patterns or outliers within the data.
+
+Various visualization techniques were employed to uncover trends and relationships among variables. Distribution plots and histograms were used to analyze the spread of numerical features, while correlation heatmaps helped identify significant relationships between healthcare metrics. The analysis also focused on understanding patient admission patterns, resource utilization, and operational efficiency across different hospital departments. Categorical variables were explored to evaluate service distribution and workforce allocation, providing insights into how resources were managed within the healthcare system.
+
+Additionally, feature relationships were examined to identify factors influencing hospital performance and bed utilization. Patterns discovered through EDA guided the feature engineering and clustering stages of the project, enabling the identification of operational segments and resource allocation trends. Overall, the EDA process provided valuable insights into hospital management practices, highlighted potential inefficiencies, and established a strong foundation for predictive modeling and data-driven decision-making.
 
 ## Project Pipeline
 
