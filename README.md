@@ -42,51 +42,14 @@ Operational support metrics
 The datasets are merged to create a consolidated healthcare management database for comprehensive analysis.
 
 ## project pipeline
-1. Data Collection & Loading
-Import healthcare datasets using Pandas.
-Validate dataset structure and integrity.
-Perform initial data inspection.
-2. Data Integration
-Merge patient, service, and staff datasets.
-Create a unified dataset for analysis.
-Handle schema inconsistencies.
-3. Data Cleaning & Preprocessing
-Remove duplicate records.
-Handle missing values.
-Standardize data formats.
-Detect and treat outliers.
-Encode categorical variables.
-Scale numerical features where required.
-4. Exploratory Data Analysis (EDA)
-Analyze dataset statistics.
-Study feature distributions.
-Examine correlations among variables.
-Visualize healthcare trends and operational metrics.
-Identify resource utilization patterns.
-5. Feature Engineering
-
-Created additional features such as:
-
-Mean value indicators
-Standard deviation metrics
-Range-based measures
-Encoded categorical representations
-
-These engineered features help improve clustering and predictive model performance.
-
-6. Hospital Segmentation (Clustering)
-Apply clustering algorithms to group similar hospital operational patterns.
-Identify distinct resource utilization segments.
-Discover hidden structures within healthcare data.
-7. Predictive Modeling
-Split data into training and testing sets.
-Train machine learning models.
-Evaluate model performance using validation techniques.
-Generate predictions for healthcare management metrics.
-8. Model Evaluation
-Performance assessment using standard evaluation metrics.
-Cross-validation for model robustness.
-Interpretation of results for healthcare decision-making.
+Data Collection – Gathered hospital, patient, and healthcare service datasets.
+Data Preprocessing – Cleaned data, handled missing values, removed duplicates, and transformed features.
+Data Integration – Combined multiple datasets into a unified healthcare database.
+Exploratory Data Analysis (EDA) – Analyzed patient trends, resource utilization, and operational patterns through statistical analysis and visualizations.
+Feature Engineering – Created new features to enhance analytical and predictive capabilities.
+Clustering Analysis – Segmented hospitals based on operational and resource utilization characteristics.
+Predictive Modeling – Built and evaluated machine learning models for healthcare management insights.
+Insights & Recommendations – Generated actionable recommendations to improve hospital efficiency and resource allocation.
 
 ## EDA
 The Exploratory Data Analysis (EDA) phase was conducted to gain a comprehensive understanding of hospital operations, patient records, staff allocation, and healthcare service utilization. Initially, the datasets were examined for missing values, duplicate entries, data types, and overall data quality to ensure reliability for further analysis. Descriptive statistics were generated to summarize key numerical features and identify unusual patterns or outliers within the data.
