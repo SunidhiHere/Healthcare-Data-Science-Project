@@ -58,11 +58,13 @@ Various visualization techniques were employed to uncover trends and relationshi
 
 Additionally, feature relationships were examined to identify factors influencing hospital performance and bed utilization. Patterns discovered through EDA guided the feature engineering and clustering stages of the project, enabling the identification of operational segments and resource allocation trends. Overall, the EDA process provided valuable insights into hospital management practices, highlighted potential inefficiencies, and established a strong foundation for predictive modeling and data-driven decision-making.
 
-## Project Pipeline
-
 ## Model
 
 ## Model Evaluation
+## Insights and Recommendations
+Identified key factors affecting hospital bed management and resource allocation.
+Generated actionable recommendations for improving operational efficiency.
+Provided data-driven insights to support healthcare decision-making.
 
 ## Conclusion
 This project demonstrates the application of data analytics and machine learning in healthcare management. By integrating multiple hospital datasets, performing extensive exploratory analysis, and applying clustering and predictive modeling techniques, the project provides valuable insights into hospital bed utilization and operational efficiency. These insights can assist healthcare organizations in making informed decisions, optimizing resource allocation, and improving patient care outcomes.
