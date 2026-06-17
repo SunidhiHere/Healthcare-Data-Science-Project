@@ -12,35 +12,6 @@ Segment hospital operations using clustering techniques.
 Build predictive models to forecast healthcare-related metrics.
 Support hospital administrators in improving operational efficiency.
 
-## About Dataset
-The project utilizes multiple healthcare datasets:
-
-1. Patients Dataset
-
-Contains patient-related information such as:
-
-Patient demographics
-Admission details
-Medical records
-Treatment information
-2. Services Dataset
-
-Contains hospital service information including:
-
-Bed availability
-Service utilization
-Department operations
-Resource allocation
-3. Staff Dataset
-
-Contains workforce-related information such as:
-
-Staff roles
-Department assignments
-Operational support metrics
-
-The datasets are merged to create a consolidated healthcare management database for comprehensive analysis.
-
 ## project pipeline
 Data Collection – Gathered hospital, patient, and healthcare service datasets.
 Data Preprocessing – Cleaned data, handled missing values, removed duplicates, and transformed features.
@@ -50,6 +21,13 @@ Feature Engineering – Created new features to enhance analytical and predictiv
 Clustering Analysis – Segmented hospitals based on operational and resource utilization characteristics.
 Predictive Modeling – Built and evaluated machine learning models for healthcare management insights.
 Insights & Recommendations – Generated actionable recommendations to improve hospital efficiency and resource allocation.
+
+## About Dataset
+The dataset consists of healthcare and hospital management records designed to analyze hospital operations, patient care, and resource utilization. It combines information from multiple sources, including patient records, healthcare services, and hospital staff data, providing a comprehensive view of hospital functioning.
+The patient dataset contains demographic details, admission-related information, treatment records, and other healthcare attributes that help in understanding patient flow and service demand within the hospital.
+The healthcare services dataset includes operational metrics related to hospital facilities, resource allocation, service utilization, and bed management, enabling the analysis of healthcare efficiency and capacity planning.
+The staff dataset contains information about healthcare personnel, their roles, departmental assignments, and workforce distribution, which helps evaluate staffing patterns and operational support across hospital departments.
+By integrating these datasets, the project creates a unified healthcare database that supports exploratory data analysis, clustering, and predictive modeling to uncover operational trends, optimize resource utilization, and improve hospital management decisions.
 
 ## EDA
 The Exploratory Data Analysis (EDA) phase was conducted to gain a comprehensive understanding of hospital operations, patient records, staff allocation, and healthcare service utilization. Initially, the datasets were examined for missing values, duplicate entries, data types, and overall data quality to ensure reliability for further analysis. Descriptive statistics were generated to summarize key numerical features and identify unusual patterns or outliers within the data.
