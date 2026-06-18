@@ -37,6 +37,10 @@ Various visualization techniques were employed to uncover trends and relationshi
 Additionally, feature relationships were examined to identify factors influencing hospital performance and bed utilization. Patterns discovered through EDA guided the feature engineering and clustering stages of the project, enabling the identification of operational segments and resource allocation trends. Overall, the EDA process provided valuable insights into hospital management practices, highlighted potential inefficiencies, and established a strong foundation for predictive modeling and data-driven decision-making.
 
 ## Model
+K-Means Clustering was applied to group hospitals with similar operational characteristics and resource utilization patterns. This unsupervised learning technique helped identify distinct clusters based on healthcare performance indicators, enabling better understanding of hospital segments and resource allocation strategies.
+Before clustering, the dataset was preprocessed and standardized to ensure that all features contributed equally to the model. Feature engineering techniques were also employed to create meaningful variables that improved the clustering results and enhanced pattern discovery.
+The clustering model was evaluated using cluster distribution analysis and visualization techniques to assess the separation and similarity among groups. These insights helped uncover hidden operational trends within the healthcare system and provided a foundation for data-driven decision-making.
+The machine learning approach enabled the identification of hospitals with similar performance profiles, facilitating improved resource management, operational planning, and healthcare service optimization. The results demonstrated how unsupervised learning can support strategic decision-making in hospital bed management and healthcare analytics.
 
 ## Model Evaluation
 ## Insights and Recommendations
