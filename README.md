@@ -43,6 +43,10 @@ The clustering model was evaluated using cluster distribution analysis and visua
 The machine learning approach enabled the identification of hospitals with similar performance profiles, facilitating improved resource management, operational planning, and healthcare service optimization. The results demonstrated how unsupervised learning can support strategic decision-making in hospital bed management and healthcare analytics.
 
 ## Model Evaluation
+The performance of the clustering model was evaluated by examining the quality and distribution of the generated clusters. Visual analysis and cluster profiling were used to assess how effectively hospitals with similar operational characteristics were grouped together.
+Standardized features and engineered healthcare metrics helped improve cluster separation, enabling the model to identify meaningful patterns in hospital resource utilization, patient management, and service efficiency. The resulting clusters provided clear distinctions between different operational profiles.
+Cluster visualizations were used to interpret relationships among healthcare facilities and validate the effectiveness of the segmentation process. The analysis demonstrated that hospitals within the same cluster shared similar performance characteristics, indicating successful pattern recognition.
+Overall, the evaluation showed that the clustering approach effectively uncovered hidden structures within the healthcare data, providing actionable insights for hospital administrators. The model's results supported better decision-making in areas such as resource allocation, operational planning, and healthcare service optimization.
 ## Insights and Recommendations
 Identified key factors affecting hospital bed management and resource allocation.
 Generated actionable recommendations for improving operational efficiency.
