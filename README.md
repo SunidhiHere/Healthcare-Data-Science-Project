@@ -1,4 +1,4 @@
-# Healthcare-Data-Science-Project
+<img width="1376" height="623" alt="Gemini_Generated_Image_60s8t460s8t460s8" src="https://github.com/user-attachments/assets/6b298740-c267-4bbc-b331-a4935238d4a7" />
 
 ## Introduction
 This project focuses on analyzing hospital bed management data to improve healthcare resource utilization, patient management, and operational efficiency. The analysis combines patient records, hospital service data, and staff information to uncover patterns in healthcare operations, identify resource allocation trends, and develop predictive insights for better decision-making.
